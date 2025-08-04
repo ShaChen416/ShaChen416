@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a geochemist with a passion for uncovering how planets form and evolve. I blend metal isotope geochemistry, experimental petrology, quantum computing, and machine learning to investigate planetary compositions and the deep processes that shape them.
+
+
+
 <!--
 **ShaChen416/ShaChen416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
