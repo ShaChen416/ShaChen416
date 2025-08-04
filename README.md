@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a geochemist with a passion for uncovering how planets form and evolve. I blend metal isotope geochemistry, experimental petrology, quantum computing, and machine learning to investigate planetary compositions and the deep processes that shape them.
+My name is Sha. I'm a geochemist with a passion for uncovering how planets form and evolve. I blend metal isotope geochemistry, experimental petrology, quantum computing, and machine learning to investigate planetary compositions and the deep processes that shape them.
 
 
 
